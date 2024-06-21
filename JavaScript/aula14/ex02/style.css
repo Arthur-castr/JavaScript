@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(104, 104, 235);
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    text-align: center;
+    color: white;
+    
+}
+section{
+background-color: white;
+width: 400px;
+border-radius: 5px;
+padding: 15px;
+margin: auto;
+box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.226);
+}
+div#op{
+    text-align: left;
+}
+div#res{
+text-align: left;
+padding-top:20px;
+}
+footer{
+text-align: center;
+color: white;
+}
